@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GatewayApiApplication {
 
 	public static void main(String[] args) {
+		//ok this is to update
 		SpringApplication.run(GatewayApiApplication.class, args);
 	}
 
